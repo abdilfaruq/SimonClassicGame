@@ -1,5 +1,5 @@
 # Simon Classic Game
-**SimonClassicGame** is the web app built using HTML, CSS, and jQuery.  
+**SimonClassicGame** is the webapp game built using HTML, CSS, and jQuery.  
 
 Game that is modeled on the game Simon. So the way that it works is that you can press any key to start and it will show you a tile that you have to click on.  
 
